@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dialdia</string>
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="explicacion">En caso de ya contar con registros hechos complete los datos con los ultimos registros realizados, si usted no tiene registros no modifique los campos (exepto el segundo, es importante que no deje en 0 ese campo) y pulse el boton "Guardar".</string>
+</resources>

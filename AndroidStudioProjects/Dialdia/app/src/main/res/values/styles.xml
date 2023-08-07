@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="fondoBotones">
+        <item name="android:background">@drawable/fondo_btns</item>
+    </style>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990483743066",
+    "project_id": "dialdia",
+    "storage_bucket": "dialdia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990483743066:android:465ba97403dbed2704b363",
+        "android_client_info": {
+          "package_name": "com.example.dialdia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990483743066-s28ada8d4od7bp7idmreru7rrcdqpd3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1rJS80TCX643mPTkCPty1qXYGPhbqgkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990483743066-s28ada8d4od7bp7idmreru7rrcdqpd3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
